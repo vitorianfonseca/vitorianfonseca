@@ -1,4 +1,4 @@
-# Hey there ✨💻
+# Hey there ✨👩🏽‍💻
 
 I'm Vitória — 19, dreamer, and currently a Computer Engineering student at Politécnico de Leiria. Just getting started on this tech journey, one line of code (and one cozy vibe) at a time.
 
