@@ -16,5 +16,3 @@ I'm Vitória — 19, dreamer, and currently a Computer Engineering student at Po
 - Once spent 30 minutes debugging... just to realize I forgot to save the file. Classic. 🤦‍♀️  
 - My playlists are carefully curated to match every coding mood — from “focus mode” to “fix-this-now panic” 🎶
 
-## #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@DeVQueen/30-nites-of-code)  
-  ![@DeVQueen #30NitesOfCode](https://www.codedex.io/api/petStatus?user=DeVQueen)
